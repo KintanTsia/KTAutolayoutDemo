@@ -1,6 +1,6 @@
 # KTAutolayoutDemo
 AutoLayout自定义tableViewCell --- Masonry + UITableView+FDTemplateLayoutCell 纯代码实现
-AutoLayout自定义tableViewCell — Masonry + UITableView+FDTemplateLayoutCell 纯代码实现
+个人技术博客  欢迎来批  http://blog.csdn.net/dwooo/article/details/49227769
 
 在被frame虐的体无完肤的楼主，在新项目开始的时候毅然决定使用Autolayout来实现项目的绝大多界面，当然这个绝大多数的界面也包括tableView的Cell。本来在楼主看来，这个autolayout根本就是用在storyboard和xib的神器，但用在纯代码中是相当的鸡肋，食之无味，弃之可惜，担忧不舍器自动布局的优点，在网上找了很多关于aotoulayout的资料及开源库：
 
